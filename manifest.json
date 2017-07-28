@@ -16,8 +16,10 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.google.com/*",
-        "https://www.google.co.il/*"
+        "*://*/*"
+      ],
+      "include_globs": [
+        "*://*.google.*/*"
       ],
       "js": [
         "js/jquery/jquery.min.js",
