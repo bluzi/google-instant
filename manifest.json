@@ -10,7 +10,6 @@
     "48": "icons/Lightning48.png",
     "128": "icons/Lightning128.png"
   },
-  "default_locale": "en",
   "permissions": [
     "contentSettings"
   ],
@@ -23,7 +22,7 @@
         "*://*.google.*/*"
       ],
       "js": [
-        "js/jquery/jquery.min.js",
+        "js/jquery.min.js",
         "./inject.js"
       ]
     }
