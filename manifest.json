@@ -1,6 +1,6 @@
 {
   "name": "Google Instant",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "manifest_version": 2,
   "description": "Adds instant results to google search",
   "homepage_url": "http://eliran.net",
