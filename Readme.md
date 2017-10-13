@@ -4,7 +4,7 @@ Google launched `Google Instant` in 2010, And then withdrew it in 2017 for devic
 This Chrome extension miraculously brings back `Google Instant`,which means after installing it ,you will be able to see your results on Google while typing the query.
 
 ## Download
-The extension is available [here](https://chrome.google.com/webstore/detail/google-instant/pgkcggibpkmllknengmmihdoeaifkmmc).
+The extension is available at: here
 
 ## Contribution
 Feel free to submit your PRs they are more than welcome, I will make sure to have a look on them ASAP.
