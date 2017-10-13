@@ -10,11 +10,11 @@ The extension is available [here](https://chrome.google.com/webstore/detail/goog
 Feel free to submit your PRs they are more than welcome, I will make sure to have a look on them ASAP.
 Happy contributing !
 
-## Debugigng
-1. Clone the repository
+## Debugging
+1. Clone the repository: `git clone https://github.com/bluzi/google-instant.git`
 2. Navigate to `chrome://extensions/` in Chrome
 3. Turn on Developer mode
-4. Press on `Load unpack extension`
+4. Click `Load unpack extension`
 5. Select the repository directory 
 6. Navigate to Google and you should notice the extension
-7. Refresh by returning to `chrome://extensions/` and pressing CTRL+R
+7. Refresh by returning to `chrome://extensions/` and pressing CTRL+R (Windows) or CMD+R (Mac)
