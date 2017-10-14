@@ -1,6 +1,6 @@
 # Google Instant
 ## Overview
-Google launched `Google Instant` in 2010, And then withdrew it in 2017 for device compatibility issues.
+Google launched `Google Instant` in 2010, and then withdrew it in 2017 because of device compatibility issues.
 This Chrome extension miraculously brings back `Google Instant`,which means after installing it ,you will be able to see your results on Google while typing the query.
 
 ## Download
